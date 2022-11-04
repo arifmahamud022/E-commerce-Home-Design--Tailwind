@@ -32,6 +32,11 @@
     background: #F0FBFC;
     margin-bottom: 20px;
 }
+.all:hover{
+    transition: 1s;
+    background: rgba(0, 0, 0, 0.3) ;
+    border-radius: 0;
+}
 .innn{
     background: #D0D7D8;
     padding: 20px;
